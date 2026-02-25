@@ -4,32 +4,33 @@ All **non-code resources** (including but not limited to custom materials, templ
 
 ---
 
-## Core Rules (human version)
+## Core Rules (Human Version)
 
 ### ✅ Things you can do
 - **Share**: Copy and distribute this resource in any medium and in any form.
-- - **Adapt**: Modify, transform or build upon this resource.
- 
-  - ### 📝 Conditions that must be observed
-  - 1. **Attribution**
-    2.     - Proper attribution must be given, such as author name and link to the original repository.
-    3.     - Must indicate whether the resource has been modified.
-    4. 2. **NonCommercial**
-       3.     - **Use of this resource for any commercial purpose** is prohibited, including but not limited to:
-       4.       - Sell, rent or license this resource to others for monetary gain.
-       5.         - Use this resource as part of a paid product, service or advertisement.
-       6.           - Use this resource for commercial promotion or monetization.
-      
-       7.       ---
-      
-       8.   ## Complete legal text
-       9.   - The complete legal terms of this agreement can be found in the [LICENSE](LICENSE) file in the root directory of the repository.
-            - - You can also visit [Creative Commons official website](https://creativecommons.org/licenses/by-nc/4.0/legalcode) to view.
-             
-              - ---
+- **Adapt**: Modify, transform or build upon this resource.
 
-              ## IMPORTANT NOTE
-              - This agreement only applies to **non-code resources** in this repository. If this repository also contains code, the code portion will be covered by a separate license agreement (such as MIT) and will be clearly marked in the corresponding file.
+### 📝 Conditions you must observe
+1.  **Attribution**
+    - You must give appropriate credit, such as the author's name and a link to the original repository.
+    - You must indicate if you have modified the resource.
+
+2.  **NonCommercial**
+    - **Use of this resource for any commercial purpose is prohibited**, including but not limited to:
+      - Selling, renting, or licensing this resource to others for monetary gain.
+      - Using this resource as part of a paid product, service, or advertisement.
+      - Using this resource for commercial promotion or monetization.
+
+---
+
+## Complete Legal Text
+- The full legal terms of this license can be found in the [LICENSE](LICENSE) file in the root directory of this repository.
+- You may also view the official text at [Creative Commons official website](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
+---
+
+## Important Note
+This license applies **only to the non-code resources** in this repository. If this repository also contains code, the code portion will be covered by a separate license (such as MIT) and will be clearly marked in the corresponding files.
 
 
 # 许可协议 (License)
