@@ -1,3 +1,35 @@
+🎨 Software Customization Resource Repository
+This is a curated collection of custom configurations, themes, templates, and enhancement resources for popular software, designed to make your tools more personalized, visually appealing, and efficient.
+📦 What's in this repository?
+Software Configurations: One-click importable config files, keybinding schemes, and workflow templates
+Themes & Skins: Polished color schemes, icon packs, and UI beautification resources
+Enhancement Scripts: Automation scripts, plugins, and extensions to boost productivity
+Usage Guides: Clear installation steps, troubleshooting tips, and best practices
+All resources are either original creations or deeply customized by me, and are intended for non-commercial learning and personal use only.
+🚀 Quick Start
+Find your software: Select the software you use from the folder list (e.g., VSCode/, Obsidian/, Photoshop/).
+Choose a resource type: Navigate to the Themes/, Configs/, or Scripts/ subdirectories.
+Download and use:
+Configuration files: Import directly into your software.
+Theme packages: Follow the installation instructions provided for the respective software.
+Scripts: Run as needed or add them to your software's extensions directory.
+Each resource folder contains a dedicated README.md with detailed installation and usage instructions.
+📜 License
+All non-code resources in this repository (including but not limited to configuration files, themes, templates, documents, etc.) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+✅ You are free to share and adapt these resources.
+📝 You must give appropriate credit and indicate if changes were made.
+🚫 Commercial use of these resources is strictly prohibited.
+For the full legal text, please refer to the LICENSE file in the root directory of this repository.
+🤝 Contributions Welcome
+If you have better configurations, themes, or scripts, feel free to share them with the community via a Pull Request!
+Fork this repository.
+Create your resource folder under the corresponding software directory.
+Submit a PR, and in the description, highlight the features and usage of your contribution.
+💬 Feedback & Support
+Encountering issues? Feel free to submit an Issue.
+Have a great suggestion? You can also reach out via an Issue or contact me directly.
+I hope these custom resources make your tools feel more personal and your workflow more efficient! ✨
+
 
 🎨 软件自定义资源库
 这里是我为多款常用软件整理的自定义配置、主题、模板和增强资源，让你的工具更顺手、更好看、更高效。
