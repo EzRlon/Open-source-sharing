@@ -4,7 +4,7 @@ All **non-code resources** (including but not limited to custom materials, templ
 
 ---
 
-## Core Rules (Human Version)
+## Core Rules
 
 ### ✅ Things you can do
 - **Share**: Copy and distribute this resource in any medium and in any form.
@@ -33,13 +33,13 @@ All **non-code resources** (including but not limited to custom materials, templ
 This license applies **only to the non-code resources** in this repository. If this repository also contains code, the code portion will be covered by a separate license (such as MIT) and will be clearly marked in the corresponding files.
 
 
-# 许可协议 (License)
+# 许可协议
 
 本仓库中的所有**非代码资源**（包括但不限于自定义素材、模板、配置文件、设计稿、文档等）均采用 **知识共享 署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0)** 进行许可。
 
 ---
 
-## 核心规则（人话版）
+## 核心规则
 
 ### ✅ 你可以做的事
 - **共享**：在任何媒介以任何形式复制、发行本资源。
